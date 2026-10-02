@@ -1,0 +1,9 @@
+Django==6.1.1
+djangorestframework==3.18.0
+Pillow==12.3.0
+python-dotenv==1.2.3
+channels==4.3.2
+channels-redis==4.3.0
+daphne==4.2.3
+whitenoise==6.9.0
+argon2-cffi==25.1.0
